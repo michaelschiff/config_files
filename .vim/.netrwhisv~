@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Applications/Ableton Live 8.app/Contents/App-Resources/MIDI Remote Scripts/LeapController'
+let g:netrw_dirhist_2='/Users/michaelschiff/Library/Preferences/Ableton/Live 8.3.4'
+let g:netrw_dirhist_3='/Users/michaelschiff/Library/Preferences/Ableton/Live 8.3.4/User Remote Scripts'
+let g:netrw_dirhist_4='/Users/michaelschiff/Library/Preferences/Ableton/Live 8.3.4/User Remote Scripts/LeapConductor'
+let g:netrw_dirhist_5='/Users/michaelschiff/Library/Preferences/Ableton/Live 8.3.4'
+let g:netrw_dirhist_6='/Users/michaelschiff/Library/Preferences/Ableton/Live 8.3.4/User Remote Scripts'
+let g:netrw_dirhist_7='/Users/michaelschiff/Library/Preferences/Ableton/Live 8.3.4/User Remote Scripts/LeapConductor'
+let g:netrw_dirhist_8='/Applications/Ableton Live 8.app/Contents/App-Resources/MIDI Remote Scripts/_Fancy'

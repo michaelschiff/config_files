@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/michaelschiff/Documents/Berkeley/Year 5/Data_Mining/cs294-assign3/CategoryProcessing'
+let g:netrw_dirhist_2='/Users/michaelschiff/Documents/Berkeley/Year 5/Data_Mining/cs294-assign3/Labeling'
